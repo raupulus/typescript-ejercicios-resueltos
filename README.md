@@ -1,3 +1,3 @@
-# practicando-angular
+# practicando-typescript
 
 Pruebas practicando con angular
