@@ -2,6 +2,8 @@
 
 Ejercicios ya resueltos de typescript con los que he practicado durante mis estudios y los comparto para que puedas utilizarlo como base.
 
+Este repositorio se encuentra alojado en:
+https://gitlab.com/fryntiz/typescript-ejercicios-resueltos
 
 ## Modo de plantear ejercicios
 
@@ -42,7 +44,7 @@ Si encuentras algún error o quieres mejorar algo puedes contactar directamente 
 
 Nombre  |  GitLab   |  GitHub  |   Web
 :-------|:----------|:---------|:---------
-Raúl Caro Pastorino | [@fryntiz](https://github.com/fryntiz) | [@fryntiz](https://github.com/fryntiz) | [https://fryntiz.es](https://fryntiz.es)
+Raúl Caro Pastorino | [@fryntiz](https://gitlab.com/fryntiz) | [@fryntiz](https://github.com/fryntiz) | [https://fryntiz.es](https://fryntiz.es)
 
 
 ## Licencia
