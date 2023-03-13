@@ -1,10 +1,10 @@
 "use strict";
 /**
- * @author Raúl Caro Pastorino (fryntiz)
+ * @author Raúl Caro Pastorino (raupulus)
  * @copyright Copyright © 2018 Raúl Caro Pastorino
  * @license https://wwww.gnu.org/licenses/gpl.txt
  *
- * https://fryntiz.es
+ * https://raupulus.dev
  */
 /*
  * ↓ INSTRUCCIONES DEL EJERCICIO ↓
